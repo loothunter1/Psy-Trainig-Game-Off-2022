@@ -1,4 +1,4 @@
 Cartoon ray sprite: https://opengameart.org/content/qx-2d-game-art-design-fish
 Ball collision sound: https://opengameart.org/content/collision-nutfall-yo-frankie
 Modular Cards kit (demo): https://assetstore.unity.com/packages/2d/gui/2d-modular-cards-kit-demo-227623
-Card match sound: RPG Maker VX Ace RTP library (yes, I have a licensed copy and I can use assets from there)
+Card match sound, light relocation sound: RPG Maker VX Ace RTP library (yes, I have a licensed copy and I can use assets from there)
