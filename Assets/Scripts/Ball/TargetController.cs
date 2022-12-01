@@ -7,6 +7,7 @@ public class TargetController : MonoBehaviour
     public int currentScore = 0;
     public GameObject player;
     public BallTimerController ballTimerController;
+    public AudioSource audioSource;
 
     public Transform gridTopLeft;
     public Transform gridBottomRight;
@@ -46,6 +47,10 @@ public class TargetController : MonoBehaviour
             currentScore += 1;
             ballTimerController.Score = currentScore;
             Relocate();
+            if (audioSource)
+            {
+                audioSource.Play();
+            }
         }
     }
 
